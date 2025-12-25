@@ -10,6 +10,7 @@ function rubahWarna() {
   <Like />
   <h1>You did it!</h1>
   <button @click="rubahWarna()">Rubah Warna H1</button>
+  <h5>Ini buat nya dari PC 1</h5>
 </template>
 
 <style scoped>
