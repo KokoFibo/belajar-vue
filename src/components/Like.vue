@@ -9,7 +9,7 @@ const like = ref(0);
 
 <template>
   <h3>Like({{ like }})</h3>
-  <button @click="addLike()">Like</button>
+  <button @click="addLike()">Like aja</button>
 </template>
 
 <style scoped>
